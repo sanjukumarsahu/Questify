@@ -6,7 +6,7 @@ A lightweight **Question & Answer** quiz game built using **only HTML, CSS, and 
 
 ## Demo
 
-Open `index.html` in your browser to run the quiz locally.
+Open `questifys.netlify.app/` in your browser to run the quiz locally.
 
 ---
 
