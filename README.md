@@ -90,6 +90,3 @@ This project is released under the **MIT License**. Feel free to copy, modify, a
 
 ---
 
-## Want Starter Files?
-
-If you want, I can also generate a ready-to-use `index.html`, `style.css`, and `script.js` with a small set of sample questions so you can run the game immediately. Just tell me to create them and I'll add them to the canvas.
